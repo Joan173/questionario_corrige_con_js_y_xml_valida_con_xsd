@@ -3,7 +3,7 @@
 <!-- <!DOCTYPE questions PUBLIC "-//Joan173//dtd_para_validar_questions_xml//ES" "https://github.com/Joan173/questionaryvalidation/questions.dtd"> -->
 
 
-<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/Joan173/questionaryvalidation/questions.xsd">
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Joan173/questionario_corrige_con_js_y_xml_valida_con_xsd/master/questions.xsd">
 	   
 	    <question id="question1">
 			<type>text</type>
